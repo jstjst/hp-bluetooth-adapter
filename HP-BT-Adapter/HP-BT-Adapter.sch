@@ -28,15 +28,16 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:HP-BT-Adapter-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "HP Bluetooth Adapter"
+Date "2017-11-27"
+Rev "1.0"
+Comp "Jonas Gappert"
 Comment1 ""
 Comment2 ""
 Comment3 ""
